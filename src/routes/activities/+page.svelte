@@ -26,7 +26,7 @@
     >
         <input id="name" name="name" aria-label="Add activity" placeholder="+ tap to add an activity"/>
         <input id="breaky" name="breaky" aria-label="I exist to spread chaos"/>
-        <button type="button" class="save" aria-label="Save new activity">Save</button>
+        <button class="save" aria-label="Save new activity" type="submit">Save</button>
     </form>
 </div>
 
